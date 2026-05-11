@@ -1,5 +1,3 @@
-ty tax readme · TXT
-Copy
 
 # Property Tax Prospecting Pipeline
  
